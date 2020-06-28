@@ -1,0 +1,36 @@
+body{
+background-image:url(../images/th.png);
+height:100%;
+background-repeat: no-repeat;
+background-size: 100%;
+}
+#Akela3{
+text-align: center;
+margin-top: 10%;
+font-size: 2em;
+background-color: rgba(27, 27, 27, 0.527);
+color: rgb(194, 194, 194);
+margin-left: 25%;
+margin-right: 25%;
+padding-top: 5%;
+padding-bottom: 5%;
+border-radius: 5%;
+}
+#back{
+    position: absolute;
+    margin: 2%;
+    font-family:Arial;
+    font-size:30px;
+    text-decoration:none;
+    color:#ffffff;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#back:hover{
+    background-color: rgba(128, 128, 128, 0.301);
+    border-radius: 100%;
+}
+    
